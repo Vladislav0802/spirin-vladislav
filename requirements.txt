@@ -1,0 +1,9 @@
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.9.2
+scikit-learn==1.7.2
+torch==2.9.1
+optuna==4.5.0
+catboost==1.2.8
+sentence-transformers==5.1.2
+tqdm==4.67.1
